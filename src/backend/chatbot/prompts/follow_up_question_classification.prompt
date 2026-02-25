@@ -1,0 +1,9 @@
+Im Folgenden ist eine Konversation zwischen einem Chatbot und einem Benutzer zu sehen. Die Konversation befindet sich zwischen den Tags <conversation> und </conversation>. Die Nachrichten des Benutzers haben den Präfix "USER: ", während die Nachrichten des Chatbots mit "ASSISTANT: " anfangen. Lies dir die Konvesation durch und führe die danach folgende Anweisung aus.
+
+<conversation>
+{% for message in messages %}
+    {{ message.role.name }}: {{ message.text }}
+{% endfor %}
+</conversation>
+
+Basierend auf der obigen Konversation, gib an ob es sich bei der letzten Nachricht des Benutzers um eine Follow-Up Frage handelt oder um eine neue Frage. Antworte nur mit "follow_up" oder "new_question" ohne die Anführungszeichen und sonst nichts.

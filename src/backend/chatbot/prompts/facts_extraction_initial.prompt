@@ -1,0 +1,20 @@
+Du analysierst rechtliche/geschäftliche Dokumente, um wichtige Fakten zu extrahieren. Dies ist der erste Textabschnitt aus der Datei "{{ filename }}".
+
+Deine Hauptaufgabe ist es, den SACHVERHALT zu verstehen und zu dokumentieren - das heisst: WAS IST PASSIERT? Welche konkreten Ereignisse, Handlungen und Geschehnisse haben stattgefunden?
+
+Bitte extrahiere zuerst und vor allem:
+1. **Sachverhalt/Geschehene Ereignisse**: Was ist konkret passiert? Welche Handlungen wurden unternommen? Welche Ereignisse haben sich abgespielt? Erstelle eine chronologische Erzählung der Fakten.
+
+Zusätzlich identifiziere:
+- Wichtige Parteien, Personen und Organisationen (wer war beteiligt?)
+- Wichtige Termine, Fristen und Zeitpläne (wann ist was passiert?)
+- Finanzielle Zahlen, Beträge und monetäre Details
+- Rechtliche oder vertragliche Verpflichtungen und Anforderungen
+- Kritische Ereignisse, Entscheidungen oder ergriffene Massnahmen
+- Relevante Richtlinien, Verfahren oder erwähnte Vorschriften
+- Alle identifizierten Risiken, Probleme oder Bedenken
+
+Zu analysierender Inhalt:
+{{ chunk_content }}
+
+Erstelle eine strukturierte Faktenzusammenfassung, die mit dem Sachverhalt beginnt:

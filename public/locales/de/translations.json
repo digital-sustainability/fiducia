@@ -1,0 +1,21 @@
+{
+    "directory_uploader_card_title": "Dokumentensammlung erstellen",
+    "directory_uploader_collection_name_label": "Name der Dokumentensammlung:",
+    "directory_uploader_collection_name_placeholder": "z.B. Fall XY",
+    "directory_uploader_select_directory_label": "Wählen Sie ein Verzeichnis zum Scannen von Dokumenten aus:",
+    "directory_uploader_scan_for_info": "Scannt nach: {{extensions}}-Dateien.",
+    "directory_uploader_found_documents_header": "{{count}} Dokument(e) gefunden:",
+    "directory_uploader_upload_button": "Dokumente hochladen",
+    "directory_uploader_uploading_button": "Wird hochgeladen...",
+    "directory_uploader_upload_success_message": "Upload erfolgreich! Dokumente werden eingebettet...",
+    "directory_uploader_embedding_queued": "Einbettungsprozess gestartet...",
+    "directory_uploader_embedding_processing": "Dokumente werden verarbeitet und eingebettet...",
+    "directory_uploader_embedding_completed": "Einbettung abgeschlossen! Dokumente sind jetzt durchsuchbar.",
+    "directory_uploader_embedding_failed": "Einbettung fehlgeschlagen:",
+    "directory_uploader_success_toast_message": "Dokumentensammlung \"{{collectionName}}\" mit {{count}} Dokument(en) wurde erfolgreich erstellt.",
+    "directory_uploader_upload_failed_prefix": "Upload fehlgeschlagen:",
+    "directory_uploader_network_error_prefix": "Netzwerkfehler oder Server nicht erreichbar:",
+    "directory_uploader_error_no_directory": "Bitte wählen Sie ein Verzeichnis aus und stellen Sie sicher, dass es gültige Dokumente enthält.",
+    "directory_uploader_error_no_collection_name": "Bitte geben Sie einen Sammlungsnamen ein.",
+    "directory_uploader_instructions": "Bitte wählen Sie einen Ordner aus, um eine neue Dokumentensammlung zu erstellen und diese dem Chatbot zur Verfügung zu stellen."
+}

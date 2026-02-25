@@ -1,0 +1,18 @@
+services:
+  fiducia:
+    env_file:
+      - .env
+    image: fiducia-chatbot
+    build:
+      context: .
+      dockerfile: Dockerfile
+      platforms:
+        - "linux/amd64"
+    container_name: fiducia-chatbot
+    volumes:
+      - ${DATA_DIR:-./data}:/data
+      - ./.files:/app/.files
+      - ./.chainlit:/app/.chainlit
+      - ./public:/app/public
+    ports:
+      - "7855:7855"

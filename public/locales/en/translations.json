@@ -1,0 +1,21 @@
+{
+    "directory_uploader_card_title": "Create Document Collection",
+    "directory_uploader_collection_name_label": "Collection Name:",
+    "directory_uploader_collection_name_placeholder": "e.g., Case XY",
+    "directory_uploader_select_directory_label": "Select a directory to scan for documents:",
+    "directory_uploader_scan_for_info": "Scans for: {{extensions}} files.",
+    "directory_uploader_found_documents_header": "Found {{count}} document(s):",
+    "directory_uploader_upload_button": "Upload Documents",
+    "directory_uploader_uploading_button": "Uploading...",
+    "directory_uploader_upload_success_message": "Upload successful! Documents are being embedded...",
+    "directory_uploader_embedding_queued": "Embedding process started...",
+    "directory_uploader_embedding_processing": "Documents are being processed and embedded...",
+    "directory_uploader_embedding_completed": "Embedding completed! Documents are now searchable.",
+    "directory_uploader_embedding_failed": "Embedding failed:",
+    "directory_uploader_success_toast_message": "Successfully created collection: \"{{collectionName}}\" with {{count}} document(s).",
+    "directory_uploader_upload_failed_prefix": "Upload failed:",
+    "directory_uploader_network_error_prefix": "Network error or server unreachable:",
+    "directory_uploader_error_no_directory": "Please select a directory and ensure it contains valid documents.",
+    "directory_uploader_error_no_collection_name": "Please enter a collection name.",
+    "directory_uploader_instructions": "Please select a folder containing documents to start creating a new document collection that can be used within Fiducia."
+}

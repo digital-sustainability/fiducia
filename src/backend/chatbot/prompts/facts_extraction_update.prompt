@@ -1,0 +1,24 @@
+Du analysierst rechtliche/geschäftliche Dokumente, um wichtige Fakten zu extrahieren. Du hast eine bestehende Faktenzusammenfassung, die mit neuen Informationen aktualisiert werden muss.
+
+Aktuelle Faktenzusammenfassung:
+{{ current_summary }}
+
+Neuer Inhalt aus der Datei "{{ filename }}":
+{{ chunk_content }}
+
+Deine Hauptaufgabe ist es, den SACHVERHALT zu erweitern und zu vervollständigen - das heisst: WAS IST PASSIERT? Welche weiteren konkreten Ereignisse, Handlungen und Geschehnisse haben stattgefunden?
+
+Bitte aktualisiere die Faktenzusammenfassung durch:
+1. **Erweiterung des Sachverhalts**: Füge neue konkrete Ereignisse, Handlungen und Geschehnisse zur chronologischen Erzählung hinzu. Was ist weiter passiert? Welche neuen Entwicklungen gab es?
+2. Hinzufügung neuer Parteien, Personen oder Organisationen
+3. Aufnahme neuer Termine, Fristen oder Zeitplan-Informationen
+4. Hinzufügung noch nicht erwähnter finanzieller Zahlen oder monetärer Details
+5. Identifizierung neuer Verpflichtungen, Anforderungen oder vertraglicher Bedingungen
+6. Aufzeichnung neuer Ereignisse, Entscheidungen oder Massnahmen
+7. Hinzufügung relevanter Richtlinien, Verfahren oder Vorschriften
+8. Notierung neuer Risiken, Probleme oder Bedenken
+9. Beibehaltung der organisierten Struktur und Vermeidung von Doppelungen
+
+Fokussiere dabei besonders darauf, die Erzählung dessen, was passiert ist, zu vervollständigen und zu erweitern.
+
+Aktualisierte Faktenzusammenfassung:

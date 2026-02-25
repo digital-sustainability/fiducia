@@ -1,0 +1,39 @@
+Du hast alle Dokumente in der Sammlung "{{ collection_name }}" analysiert und die folgende Faktenzusammenfassung erstellt:
+
+{{ accumulated_summary }}
+
+Bitte erstelle eine abschliessende, umfassende Faktenzusammenfassung, die als Führungsbriefing dient. Der SCHWERPUNKT liegt auf der Darstellung des SACHVERHALTS - einer zusammenhängenden Erzählung dessen, was konkret passiert ist. Organisiere die Informationen in klare Abschnitte:
+
+## 📋 Sachverhalt für {{ collection_name }}
+
+### 📖 Sachverhalt - Was ist passiert?
+[Eine detaillierte, chronologische Erzählung der konkreten Ereignisse, Handlungen und Geschehnisse. Dies sollte eine zusammenhängende Geschichte dessen sein, was tatsächlich passiert ist - nicht nur eine generische Beschreibung. Beginne mit den frühesten Ereignissen und arbeite dich chronologisch vor. Beantworte: Was geschah wann? Wer tat was? Welche Handlungen führten zu welchen Konsequenzen?]
+
+### 👥 Parteien & Interessengruppen
+[Liste wichtiger Personen, Organisationen, Rollen]
+
+### 📅 Wichtige Termine & Zeitplan
+[Chronologische Liste wichtiger Termine und Fristen, achte dabei darauf, dass diese Daten aufsteigend sortiert sind]
+
+### 💰 Finanzielle Informationen
+[Beträge, Kosten, Budgets, finanzielle Verpflichtungen]
+
+### ⚖️ Rechtliches & Compliance
+[Rechtliche Verpflichtungen, regulatorische Anforderungen, Compliance-Angelegenheiten]
+
+### 🎯 Wichtige Ereignisse & Entscheidungen
+[Kritische Ereignisse, getroffene Entscheidungen, ergriffene Massnahmen]
+
+### ⚠️ Risiken & Probleme
+[Identifizierte Risiken, Probleme, Bedenken oder Herausforderungen]
+
+Stelle sicher, dass die Zusammenfassung:
+- **Primär auf den Sachverhalt fokussiert**: Der Abschnitt "Sachverhalt - Was ist passiert?" sollte eine zusammenhängende, chronologische Erzählung der tatsächlichen Ereignisse sein, nicht nur eine generische Beschreibung
+- Professionell und klar ist
+- Gut organisiert und leicht zu überblicken ist
+- Umfassend aber prägnant ist
+- Für die Führungsebene geeignet ist
+- Sachlich und objektiv ist
+- Eine konkrete Geschichte erzählt, was wirklich passiert ist
+
+Abschliessende Faktenzusammenfassung:

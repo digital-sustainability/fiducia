@@ -1,0 +1,12 @@
+Hier sind die ersten paar Seiten eines Dokuments:
+
+<excerpt>
+{{ excerpt }}
+</excerpt>
+
+Bitte schreibe eine kurze Zusammenfassung über den Inhalt des Dokuments, auch wenn du nicht das ganze Dokument gesehen hast. Du solltest in der Lage sein, anhand den ersten paar Seiten zu erkennen, was der Inhalt des gesamten Dokuments ungefähr ist. Halte dich kurz aber sei präzise. Ausserdem solltest du einen weiteren Text schreiben, welcher die Einschränkungen des Dokuments beinhaltet. Wenn sich ein Dokument beispielsweise nur auf eine gewisse Personengruppe, einen bestimmten Zeitraum oder eine bestimmte Bedingung oder Grundvoraussetzung bezieht, dann sollte dies in diesem kurzen Text festgehalten werden. Bitte antworte wie folgt:
+
+Summary: <Die Zusammenfassung, worum es in dem Dokument geht>
+Restrictions: <Die Einschränkungen, die auf dieses Dokument zutreffen>
+
+Antworte nebst diesen beiden Präfixen und den entsprechenden Texten nichts anderes!

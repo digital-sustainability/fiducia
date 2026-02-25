@@ -1,0 +1,9 @@
+Im Folgenden ist eine Konversation zwischen einem Chatbot und einem Benutzer zu sehen. Die Konversation befindet sich zwischen den Tags <conversation> und </conversation>. Die Nachrichten des Benutzers haben den Präfix "USER: ", während die Nachrichten des Chatbots mit "ASSISTANT: " anfangen. Lies dir die Konvesation durch und führe die danach folgende Anweisung aus.
+
+<conversation>
+{% for message in messages %}
+    {{ message.role.name }}: {{ message.text }}
+{% endfor %}
+</conversation>
+
+In der obigen Konversation hat der Benutzer eine Frage gestellt, die sich auf eine oder mehrere andere Nachrichten in der Konversation beziehen. Deine Aufgabe ist es diese Frage neu zu formulieren, so dass die Frage ohne Zugriff auf die Konversation verständlich ist. Da die Frage in einem nächsten Schritt in ein Vektor-Embedding umgewandelt wird, ist es wichtig, dass die Frage so detailliert wie möglich ist, jedoch keine Elemente enthält, die der Benutzer nicht spezifiziert hat. Antworte nur mit der umformulierten Fragen, welche auch ohne Zugriff auf die Konversation verständlich ist, und sonst nichts, so als ärst du der Benutzer und würdest die Frage dem Chatbot stellen.

@@ -1,0 +1,7 @@
+Hier ist ein Textausschnitt, den wir innerhalb des gesamten Dokuments einordnen wollen:
+
+<excerpt>
+{{ chunk_content }}
+</excerpt>
+
+Bitte gib einen kurzen Kontext an, um diesen Textausschnitt innerhalb des Gesamtdokuments zu situieren. Der Kontext sollte genug Informationen enthalten, dass beim Lesen des Ausschnitts klar wird, auf was sich der Text bezieht und wie dieser verstanden werden soll. Antworte nur mit dem Kontext und sonst nichts.

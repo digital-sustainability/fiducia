@@ -1,0 +1,13 @@
+Im Folgenden ein längerer Ausschnitt aus einem Dokument:
+
+{{ excerpt }}
+
+Zusätzlich wissen wir, dass das gesamte Dokument folgenden Inhalt hat: 
+
+{{ summary }}
+
+Wir wissen auch, dass folgende Einschränkungen berücksichtigt werden müssen:
+
+{{ restrictions }}
+
+Bitte schreibe basierend auf diesen Informationen einen kurzen Text, welcher als Kontext dient, um diesen Textausschnitt innerhalb des Gesamtdokuments zu situieren. Der Kontext sollte genug Informationen enthalten, dass beim Lesen des Ausschnitts klar wird, auf was sich der Text bezieht und wie dieser verstanden werden soll. Antworte nur mit dem Kontext und sonst nichts.
